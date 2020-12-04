@@ -1,0 +1,13 @@
+D:\c#\CsharpPracticeForUnity\CS_Textbook\bin\Debug\netcoreapp3.1\CS_Textbook.exe
+D:\c#\CsharpPracticeForUnity\CS_Textbook\bin\Debug\netcoreapp3.1\CS_Textbook.deps.json
+D:\c#\CsharpPracticeForUnity\CS_Textbook\bin\Debug\netcoreapp3.1\CS_Textbook.runtimeconfig.json
+D:\c#\CsharpPracticeForUnity\CS_Textbook\bin\Debug\netcoreapp3.1\CS_Textbook.runtimeconfig.dev.json
+D:\c#\CsharpPracticeForUnity\CS_Textbook\bin\Debug\netcoreapp3.1\CS_Textbook.dll
+D:\c#\CsharpPracticeForUnity\CS_Textbook\bin\Debug\netcoreapp3.1\CS_Textbook.pdb
+D:\c#\CsharpPracticeForUnity\CS_Textbook\obj\Debug\netcoreapp3.1\CS_Textbook.csprojAssemblyReference.cache
+D:\c#\CsharpPracticeForUnity\CS_Textbook\obj\Debug\netcoreapp3.1\CS_Textbook.AssemblyInfoInputs.cache
+D:\c#\CsharpPracticeForUnity\CS_Textbook\obj\Debug\netcoreapp3.1\CS_Textbook.AssemblyInfo.cs
+D:\c#\CsharpPracticeForUnity\CS_Textbook\obj\Debug\netcoreapp3.1\CS_Textbook.csproj.CoreCompileInputs.cache
+D:\c#\CsharpPracticeForUnity\CS_Textbook\obj\Debug\netcoreapp3.1\CS_Textbook.dll
+D:\c#\CsharpPracticeForUnity\CS_Textbook\obj\Debug\netcoreapp3.1\CS_Textbook.pdb
+D:\c#\CsharpPracticeForUnity\CS_Textbook\obj\Debug\netcoreapp3.1\CS_Textbook.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\c#\CsharpPracticeForUnity\FunctionCS\bin\Debug\netcoreapp3.1\FunctionCS.exe
+D:\c#\CsharpPracticeForUnity\FunctionCS\bin\Debug\netcoreapp3.1\FunctionCS.deps.json
+D:\c#\CsharpPracticeForUnity\FunctionCS\bin\Debug\netcoreapp3.1\FunctionCS.runtimeconfig.json
+D:\c#\CsharpPracticeForUnity\FunctionCS\bin\Debug\netcoreapp3.1\FunctionCS.runtimeconfig.dev.json
+D:\c#\CsharpPracticeForUnity\FunctionCS\bin\Debug\netcoreapp3.1\FunctionCS.dll
+D:\c#\CsharpPracticeForUnity\FunctionCS\bin\Debug\netcoreapp3.1\FunctionCS.pdb
+D:\c#\CsharpPracticeForUnity\FunctionCS\obj\Debug\netcoreapp3.1\FunctionCS.csprojAssemblyReference.cache
+D:\c#\CsharpPracticeForUnity\FunctionCS\obj\Debug\netcoreapp3.1\FunctionCS.AssemblyInfoInputs.cache
+D:\c#\CsharpPracticeForUnity\FunctionCS\obj\Debug\netcoreapp3.1\FunctionCS.AssemblyInfo.cs
+D:\c#\CsharpPracticeForUnity\FunctionCS\obj\Debug\netcoreapp3.1\FunctionCS.csproj.CoreCompileInputs.cache
+D:\c#\CsharpPracticeForUnity\FunctionCS\obj\Debug\netcoreapp3.1\FunctionCS.dll
+D:\c#\CsharpPracticeForUnity\FunctionCS\obj\Debug\netcoreapp3.1\FunctionCS.pdb
+D:\c#\CsharpPracticeForUnity\FunctionCS\obj\Debug\netcoreapp3.1\FunctionCS.genruntimeconfig.cache
